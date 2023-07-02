@@ -2,12 +2,12 @@
 
 ### Sou um aspirante no mundo da programação e estou em busca do meu primeiro emprego como Desenvolvedor Júnior. Aqui compartilharei alguns dos projetos de sites que desenvolvi até o momento.
 
-### Contato
+### Contato:
 
 [![Linkein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-aguiar-santana-a8a795216/)
 
 
-### Tecnologias que gosto de desenvolver e estudar
+### Tecnologias que gosto de desenvolver e estudar:
 
 
 <div style="display: inline_block; ">
